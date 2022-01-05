@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**alysharina/alysharina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello World 🌏
 
 👋 My name is Alysha Gilliard and I am an aspiring full stack software engineer from Okinawa, Japan. I am currently living in Atlanta, GA.
