@@ -1,6 +1,6 @@
 👋 My name is Alysha Gilliard and I am a Software Engineer from Okinawa. I am currently living in Atlanta, GA.
 <br>
-👩‍🏫 I am enrolled Hack Reactor's Software Engineering Immersive Program and graduate in June 2022.
+👩‍🏫 I am enrolled Hack Reactor's Software Engineering Immersive Program.
 <br>
 💻 I’m interested in solving problems and helping people live happier lives through leveraging technology.
 <br>
