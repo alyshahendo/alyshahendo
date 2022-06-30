@@ -2,7 +2,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyshargilliard@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysha-gilliard-077aa2a8/)
 <br>
-👋 I am a Software Engineer from Okinawa. I am currently living in Atlanta, GA.
+👋 I am a Software Engineer from Okinawa, Japan. I am currently living in Atlanta, GA.
 <br>
 👩‍🏫 I am a graduate of Hack Reactor's Advanced Software Engineering Immersive Program.
 <br>
