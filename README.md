@@ -4,9 +4,9 @@
 <br>
 👋 I am a Software Engineer from Okinawa, Japan. I am currently living in Atlanta, GA.
 <br>
-👩‍🏫 I am a graduate of Hack Reactor's Advanced Software Engineering Immersive Program.
+👩‍🏫 I graduated from Hack Reactor's Advanced Software Engineering Immersive Program.
 <br>
-💻 I’m interested in solving challenging problems and building things that help people connect.
+💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
 💞️ I love collaborating with diverse individuals and finding new ways to challenge myself by using different technologies.
 
