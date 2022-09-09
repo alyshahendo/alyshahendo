@@ -2,15 +2,15 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyshargilliard@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysha-gilliard-077aa2a8/)
 <br>
-👋 I am a Software Engineer from Okinawa, Japan. I am currently living in Atlanta, GA.
+👋 I am a Hack Reactor graduate from Okinawa, Japan. I am currently living in Atlanta, GA.
 <br>
-👩‍🏫 I graduated from Hack Reactor's Advanced Software Engineering Immersive Program.
+👩‍🏫 I will be starting a Software Engineering Apprenticeship with Dropbox in September 2022.
 <br>
 💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
-💞️ I love collaborating with diverse individuals and finding new ways to challenge myself by using different technologies.
-
-
+💞️ I am passionate about helping non-traditional talent obtain roles in the tech industry.
+<br> 
+🧘‍♀️ Fun Fact: I am currently training to be a yoga teacher.
 
 ### Languages & Tools
   
