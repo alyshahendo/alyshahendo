@@ -3,7 +3,7 @@
 <br>
 👋 I am a Hack Reactor graduate from Okinawa, Japan. I am currently living in Atlanta, GA.
 <br>
-👩‍🏫 I will be starting a Software Engineering Apprenticeship with Dropbox in September 2022.
+👩‍🏫 I am currently a Software Engineering Apprentice at Dropbox.
 <br>
 💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
