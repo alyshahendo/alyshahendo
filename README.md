@@ -1,15 +1,15 @@
 ## Hi! I'm Alysha Gilliard
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alysha-gilliard-077aa2a8/)
 <br>
-👋 I am a Hack Reactor graduate from Okinawa, Japan. I am currently living in Atlanta, GA.
+👋 Hi! I am Alysha.
 <br>
-👩‍🏫 I am currently a Software Engineering Apprentice at Dropbox.
+👩‍🏫 I am a Software Engineer at Glossier. I currently live in Atlanta, GA.
 <br>
 💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
 💞️ I am passionate about helping non-traditional talent obtain roles in the tech industry.
 <br> 
-🧘‍♀️ Fun Fact: I am currently training to be a yoga teacher.
+🧘‍♀️ Fun Fact: I am currently training for a marathon.
 
 ### Languages & Tools
   
