@@ -3,7 +3,7 @@
 <br>
 👋 Hi! I am Alysha.
 <br>
-👩‍🏫 I am a Software Engineer at Glossier. I currently live in Atlanta, GA.
+👩‍🏫 I am currently a Backend Engineer living in Atlanta, GA.
 <br>
 💻 I’m interested in solving challenging problems and building things that help connect people.
 <br>
